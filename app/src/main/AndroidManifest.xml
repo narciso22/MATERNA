@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mat">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Mat">
+        <activity
+            android:name=".dieznumt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".nuevenumt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ochonumt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sietenumt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".seisnumt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cinconumt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cuatronumt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tresnumt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dosnumt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".seiscolt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cincocolt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cuatrocolt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".trescolt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".doscolt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".unoprot"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".unonumt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".unocolt"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dieznumn"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".nuevenumn"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ochonumn"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sietenumn"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".seisnumn"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cinconumn"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dospron"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".unopron"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cuatronumn"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tresnumn"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".dosnumn"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".unonumn"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".seiscoln"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cincocoln"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".cuatrocoln"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".trescoln"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".doscoln"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".unocoln"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".tenek"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".nahuatl"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Mat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

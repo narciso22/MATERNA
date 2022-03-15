@@ -1,0 +1,22 @@
+package com.example.mat
+
+import android.content.Intent
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import android.view.View
+
+class seisnumt : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_seisnumt)
+    }
+
+    fun btnts36(view: View) {
+        var intent = Intent(this, sietenumt::class.java)
+        startActivity(intent)
+    }
+    fun btntc36(view: View) {
+        finish()
+    }
+    fun audio36(view: View) {}
+}

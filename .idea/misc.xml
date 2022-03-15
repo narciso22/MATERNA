@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.144" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1435" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1435" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_cincocoln.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_cincocolt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_cinconumn.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_cinconumt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_cuatrocoln.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_cuatrocolt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_cuatronumn.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_cuatronumt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_diezcoln.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_dieznumn.xml" value="0.1859375" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_dieznumt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_doscoln.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_doscolt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_dosnumn.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_dosnumt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_dospron.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_nahuatl.xml" value="0.1816123188405797" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_nuevecoln.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_nuevenumn.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_nuevenumt.xml" value="0.1859375" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_ochocoln.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_ochonumn.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_ochonumt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_seiscoln.xml" value="0.16" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_seiscolt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_seisnumn.xml" value="0.22" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_seisnumt.xml" value="0.1859375" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_sietecoln.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_sietenumn.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_sietenumt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_tenek.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_trescoln.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_trescolt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_tresnumn.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_tresnumt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_unocoln.xml" value="0.22" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_unocolt.xml" value="0.25" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_unonumn.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_unonumt.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_unopron.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/activity_unoprot.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/content_main.xml" value="0.15609756097560976" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/fragment_gallery.xml" value="0.1816123188405797" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/fragment_slideshow.xml" value="0.2" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/layout/nav_header_main.xml" value="0.22" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Narci/AndroidStudioProjects/Mat/app/src/main/res/menu/main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+
+    <style name="Theme.Mat" parent="Theme.MaterialComponents.Bridge">
+        <!-- your dark theme attributes -->
+        <item name="colorPrimary">#8A0000</item>
+        <item name="colorPrimarySurface">@color/md_yellow_500</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">#D50000</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryDark</item>
+        <item name="android:navigationBarColor">?attr/colorAccent</item>
+
+
+    </style>
+
+    <style name="AppTheme.DayNight" parent="Theme.MaterialComponents.NoActionBar.Bridge" />
+
+    <style name="AppTheme.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
