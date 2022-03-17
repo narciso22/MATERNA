@@ -23,7 +23,7 @@ class unocolt : AppCompatActivity() {
     fun audio11(view: View) {
         val parent = findViewById<Button>(R.id.audio1)
         parent.setOnClickListener {
-            val mp = MediaPlayer.create(this, R.raw.amarillo)
+            val mp = MediaPlayer.create(this, R.raw.rojo)
             mp.start()
         }
     }

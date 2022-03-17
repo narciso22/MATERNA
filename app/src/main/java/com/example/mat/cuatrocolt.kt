@@ -1,9 +1,11 @@
 package com.example.mat
 
 import android.content.Intent
+import android.media.MediaPlayer
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import android.widget.Button
 
 class cuatrocolt : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -18,5 +20,11 @@ class cuatrocolt : AppCompatActivity() {
         var intent = Intent(this, cincocolt::class.java)
         startActivity(intent)
     }
-    fun audio14(view: View) {}
+    fun audio14(view: View) {
+        val parent = findViewById<Button>(R.id.audio4)
+        parent.setOnClickListener {
+            val mp = MediaPlayer.create(this, R.raw.verde)
+            mp.start()
+        }
+    }
 }
