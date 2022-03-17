@@ -18,5 +18,7 @@ class cincocolt : AppCompatActivity() {
         var intent = Intent(this, seiscolt::class.java)
         startActivity(intent)
     }
-    fun audio15(view: View) {}
+    fun audio15(view: View) {
+
+    }
 }
