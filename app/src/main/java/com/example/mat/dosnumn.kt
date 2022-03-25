@@ -1,9 +1,11 @@
 package com.example.mat
 
 import android.content.Intent
+import android.media.MediaPlayer
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import android.widget.Button
 
 class dosnumn : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -19,5 +21,11 @@ class dosnumn : AppCompatActivity() {
         finish()
     }
 
-    fun reprod2(view: View) {}
+    fun reprod2(view: View) {
+        val parent = findViewById<Button>(R.id.rep2)
+        parent.setOnClickListener {
+            val mp = MediaPlayer.create(this, R.raw.dosn)
+            mp.start()
+        }
+    }
 }

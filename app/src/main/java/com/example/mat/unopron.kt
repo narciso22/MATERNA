@@ -11,11 +11,13 @@ class unopron : AppCompatActivity() {
         setContentView(R.layout.activity_unopron)
     }
 
-    fun nahu1(view: View) {
+    fun anterior1(view: View) {
         finish()
     }
-    fun irna1(view: View) {
+    fun proximo1(view: View) {
         var intent = Intent(this, dospron::class.java)
         startActivity(intent)
     }
+
+    fun push1(view: View) {}
 }

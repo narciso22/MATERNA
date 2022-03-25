@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mat">
         <activity
+            android:name=".seispron"
+            android:exported="false" />
+        <activity
+            android:name=".cincopron"
+            android:exported="false" />
+        <activity
+            android:name=".cuatropron"
+            android:exported="false" />
+        <activity
+            android:name=".trespron"
+            android:exported="false" />
+        <activity
             android:name=".dieznumt"
             android:exported="false"
             android:screenOrientation="portrait" />
